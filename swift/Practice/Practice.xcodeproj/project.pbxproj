@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		179A39E526396E24005F6F65 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 179A39E426396E24005F6F65 /* main.swift */; };
 		179A39ED26396E54005F6F65 /* UFOGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 179A39EC26396E54005F6F65 /* UFOGame.swift */; };
+		17DB931F263C147500F017A9 /* TruckPassingBridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17DB931E263C147500F017A9 /* TruckPassingBridge.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		179A39E126396E24005F6F65 /* Practice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Practice; sourceTree = BUILT_PRODUCTS_DIR; };
 		179A39E426396E24005F6F65 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		179A39EC26396E54005F6F65 /* UFOGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UFOGame.swift; sourceTree = "<group>"; };
+		17DB931E263C147500F017A9 /* TruckPassingBridge.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = TruckPassingBridge.swift; sourceTree = "<group>"; tabWidth = 2; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				179A39E426396E24005F6F65 /* main.swift */,
 				179A39EC26396E54005F6F65 /* UFOGame.swift */,
+				17DB931E263C147500F017A9 /* TruckPassingBridge.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			files = (
 				179A39ED26396E54005F6F65 /* UFOGame.swift in Sources */,
 				179A39E526396E24005F6F65 /* main.swift in Sources */,
+				17DB931F263C147500F017A9 /* TruckPassingBridge.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
