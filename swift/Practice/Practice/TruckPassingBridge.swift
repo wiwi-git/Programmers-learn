@@ -1,4 +1,4 @@
-//
+//  문제: programmers.co.kr/learn/courses/30/lessons/42583﻿
 //  TruckPassingBridge.swift
 //  Practice
 //
