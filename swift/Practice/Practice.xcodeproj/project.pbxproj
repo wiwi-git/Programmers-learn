@@ -10,6 +10,7 @@
 		179A39E526396E24005F6F65 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 179A39E426396E24005F6F65 /* main.swift */; };
 		179A39ED26396E54005F6F65 /* UFOGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 179A39EC26396E54005F6F65 /* UFOGame.swift */; };
 		17D613072641785B00E78E1C /* MockTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17D613062641785B00E78E1C /* MockTest.swift */; };
+		17D613092641948E00E78E1C /* FunctionDevelopment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17D613082641948E00E78E1C /* FunctionDevelopment.swift */; };
 		17DB931F263C147500F017A9 /* TruckPassingBridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17DB931E263C147500F017A9 /* TruckPassingBridge.swift */; };
 /* End PBXBuildFile section */
 
@@ -30,6 +31,7 @@
 		179A39E426396E24005F6F65 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		179A39EC26396E54005F6F65 /* UFOGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UFOGame.swift; sourceTree = "<group>"; };
 		17D613062641785B00E78E1C /* MockTest.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = MockTest.swift; sourceTree = "<group>"; tabWidth = 2; };
+		17D613082641948E00E78E1C /* FunctionDevelopment.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = FunctionDevelopment.swift; sourceTree = "<group>"; tabWidth = 2; };
 		17DB931E263C147500F017A9 /* TruckPassingBridge.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = TruckPassingBridge.swift; sourceTree = "<group>"; tabWidth = 2; };
 /* End PBXFileReference section */
 
@@ -67,6 +69,7 @@
 				179A39EC26396E54005F6F65 /* UFOGame.swift */,
 				17DB931E263C147500F017A9 /* TruckPassingBridge.swift */,
 				17D613062641785B00E78E1C /* MockTest.swift */,
+				17D613082641948E00E78E1C /* FunctionDevelopment.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -131,6 +134,7 @@
 				179A39ED26396E54005F6F65 /* UFOGame.swift in Sources */,
 				179A39E526396E24005F6F65 /* main.swift in Sources */,
 				17DB931F263C147500F017A9 /* TruckPassingBridge.swift in Sources */,
+				17D613092641948E00E78E1C /* FunctionDevelopment.swift in Sources */,
 				17D613072641785B00E78E1C /* MockTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

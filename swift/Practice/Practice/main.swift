@@ -7,5 +7,5 @@
 
 import Foundation
 
-let mock = MockTest()
-print(mock.solution([1,2,3,4,5]))
+let fd = FunctionDevelopment()
+print(fd.solution([93, 30, 55], [1, 30, 5]))
